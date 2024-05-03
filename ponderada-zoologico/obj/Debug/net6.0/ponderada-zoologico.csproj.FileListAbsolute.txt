@@ -1,0 +1,15 @@
+C:\Users\Inteli\Documents\mod6\ponderada-zoologico\ponderada-zoologico\obj\Debug\net6.0\ponderada-zoologico.csproj.AssemblyReference.cache
+C:\Users\Inteli\Documents\mod6\ponderada-zoologico\ponderada-zoologico\obj\Debug\net6.0\ponderada-zoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inteli\Documents\mod6\ponderada-zoologico\ponderada-zoologico\obj\Debug\net6.0\ponderada-zoologico.AssemblyInfoInputs.cache
+C:\Users\Inteli\Documents\mod6\ponderada-zoologico\ponderada-zoologico\obj\Debug\net6.0\ponderada-zoologico.AssemblyInfo.cs
+C:\Users\Inteli\Documents\mod6\ponderada-zoologico\ponderada-zoologico\obj\Debug\net6.0\ponderada-zoologico.csproj.CoreCompileInputs.cache
+C:\Users\Inteli\Documents\mod6\ponderada-zoologico\ponderada-zoologico\bin\Debug\net6.0\ponderada-zoologico.exe
+C:\Users\Inteli\Documents\mod6\ponderada-zoologico\ponderada-zoologico\bin\Debug\net6.0\ponderada-zoologico.deps.json
+C:\Users\Inteli\Documents\mod6\ponderada-zoologico\ponderada-zoologico\bin\Debug\net6.0\ponderada-zoologico.runtimeconfig.json
+C:\Users\Inteli\Documents\mod6\ponderada-zoologico\ponderada-zoologico\bin\Debug\net6.0\ponderada-zoologico.dll
+C:\Users\Inteli\Documents\mod6\ponderada-zoologico\ponderada-zoologico\bin\Debug\net6.0\ponderada-zoologico.pdb
+C:\Users\Inteli\Documents\mod6\ponderada-zoologico\ponderada-zoologico\obj\Debug\net6.0\ponderada-zoologico.dll
+C:\Users\Inteli\Documents\mod6\ponderada-zoologico\ponderada-zoologico\obj\Debug\net6.0\refint\ponderada-zoologico.dll
+C:\Users\Inteli\Documents\mod6\ponderada-zoologico\ponderada-zoologico\obj\Debug\net6.0\ponderada-zoologico.pdb
+C:\Users\Inteli\Documents\mod6\ponderada-zoologico\ponderada-zoologico\obj\Debug\net6.0\ponderada-zoologico.genruntimeconfig.cache
+C:\Users\Inteli\Documents\mod6\ponderada-zoologico\ponderada-zoologico\obj\Debug\net6.0\ref\ponderada-zoologico.dll
